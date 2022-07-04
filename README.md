@@ -20,3 +20,7 @@ Below is the flow of the pin your notes python project.
 
 Summary
 Thus we found a way to implement a notes taker in python. This Pin your Note project of Python is an introduction to querying using SQLite and creation of a user interface using Tkinter.
+
+
+
+
